@@ -2,3 +2,29 @@ p { background-color: red; }
 p  { color: blue; }
 .paaotsikko { color: yellow; }
 * { color: green; }
+.container {
+	width: 200px;
+	height: 100px;
+	background-color: red;
+}
+.Yksi { 
+	width: 200px;
+	height: 100px;
+	background-color: red;
+	position: absolute;
+	left: 0px
+}
+.Kaksi { 
+	width: 200px;
+  	height: 100px;
+  	background-color: yellow;
+	position: absolute;
+	left: 250px 
+}
+.Kolme { 
+	width: 200px;
+  	height: 100px;
+  	background-color: green; 
+	position: absolute;
+	left: 500px
+}
